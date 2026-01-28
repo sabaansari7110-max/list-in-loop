@@ -39,3 +39,5 @@ What I Learned:
 1.What is list in python.
 <br>
 2.How loops works with lists.
+<br>
+3.How to use for loop.
