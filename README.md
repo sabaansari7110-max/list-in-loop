@@ -34,10 +34,4 @@ output-
       <br>
       mango
 
-What I Learned:
-<br>
-1.What is list in python.
-<br>
-2.How to loops works with lists.
-<br>
-3.How to use for loop
+
