@@ -6,9 +6,9 @@ This project explain how to use loops with lists in python.
 
 Features:
 <br>
-1.print all items of a list
+1.print all items of a list.
 <br>
-2.use for loop with a list 
+2.use for loop with a list.
 
 How to Run:
 <br>
