@@ -20,7 +20,7 @@ How to Run:
 <br>
 4.Run the file:
 <br>
-python list in loop.py
+Python (list in loop.py)
 
 Example output:
 <br>
