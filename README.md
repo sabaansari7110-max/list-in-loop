@@ -1,16 +1,16 @@
 # list in loop
 
-Description:
+# Description:
 <br> 
 This project explain how to use loops with lists in python.
 
-Features:
+# Features:
 <br>
 1.print all items of a list.
 <br>
 2.use for loop with a list.
 
-How to Run:
+# How to Run:
 <br>
 1.Install python on your system.
 <br>
@@ -22,19 +22,17 @@ How to Run:
 <br>
 Python (list in loop.py)
 
-Example output:
-<br>
-fruits= ["apple", "banana","mango"]
-<br>
-output-
-<br>
-      apple 
-      <br>
-      banana 
-      <br>
-      mango
+# Example output:
 
-What I Learned:
+```python
+fruits= ["apple", "banana","mango"]
+output-
+      apple 
+      banana
+      mango
+```
+
+# What I Learned:
 <br>
 1.What is list in python.
 <br>
